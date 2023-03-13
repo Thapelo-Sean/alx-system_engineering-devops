@@ -1,3 +1,4 @@
 0.Command echo prints out Hello, World to the standard output
-1.command echo prints out a confused smiley, but we have to exit the escape characters.
-2.command cat displays the content of the /etc/passwd file.
+1.Command echo prints out a confused smiley, but we have to exit the escape characters.
+2.Command cat displays the content of the /etc/passwd file.
+3.Command cat displays the content of the file /etc/passwd and /etc/hosts
