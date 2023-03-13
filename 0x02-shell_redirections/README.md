@@ -12,3 +12,4 @@ Discriptions
 8. Command ls -l with a >> writes into the file ls_cwd_content without overwritting it.
 9. 
 >>>>>>> 9158c244b82744d2ee2496337a9a0cafaefd9f03
+.
