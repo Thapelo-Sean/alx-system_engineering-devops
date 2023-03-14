@@ -8,4 +8,6 @@
 7. Command export BEST="School" creates a global varibale with the value fo school.
 8. Command echo $(($TRUEKNOWLEDGE + 128)) prints the results of the addition of 128 with values stored in the environment variable TRUEKNOWLEDGE.
 9. Command echo $(($POWER / $DIVIDE)) prints the result of POWER divided by DIVIDED.
-10. Command echo $(($BREATH ** $LOVE)) displays the result of BREATH to the power of LOVE
+10. Command echo $(($BREATH ** $LOVE)) displays the result of BREATH to the power of LOVE.
+11. Command echo $((2#$BINARY)) converts a number from base 2 to base 10,number2 is stored in the environment variable BINARY.
+12. Command
