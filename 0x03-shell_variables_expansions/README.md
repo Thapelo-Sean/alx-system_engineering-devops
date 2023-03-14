@@ -5,4 +5,5 @@
 4. Command printenv lists environment variables.
 5. Command set lists local variables.
 6. Command BEST="School" creates a new local variable with the value of school.
-7. Command 
+7. Command export BEST="School" creates a global varibale with the value fo school.
+8. Command  
