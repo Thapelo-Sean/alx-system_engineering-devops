@@ -6,4 +6,5 @@
 5. Command set lists local variables.
 6. Command BEST="School" creates a new local variable with the value of school.
 7. Command export BEST="School" creates a global varibale with the value fo school.
-8. Command  
+8. Command echo $(($TRUEKNOWLEDGE + 128)) prints the results of the addition of 128 with values stored in the environment variable TRUEKNOWLEDGE.
+9. Command  
