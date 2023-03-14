@@ -13,4 +13,5 @@
 12. Command echo {a..z}{a..z} | tr ' ' '\n' | grep -v 'oo' prints all possible combinations of two letter, except oo.
 13. Command printf "%.2f\n" $NUM prints a number with two decimals places, the number will be stored in the environment variable NUM.
 14. Command printf "%x\n" $DECIMAL converts a number from base 10 to base 16, the number 10 will be stored in the environment variable DECIMAL
-15. Command   
+15. Command tr 'A-Za-z' 'N-ZA-Mn-za-m' encodes and decodes text using the rot13 encryption. Assume ASCII.
+16. Command    
