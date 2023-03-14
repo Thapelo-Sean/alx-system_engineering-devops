@@ -4,4 +4,5 @@
 3. Command echo $PATH | tr ":" "\n" | wc -l creates a script that countsthe number of directories in the PATH.
 4. Command printenv lists environment variables.
 5. Command set lists local variables.
-6. Command 
+6. Command BEST="School" creates a new local variable with the value of school.
+7. Command 
