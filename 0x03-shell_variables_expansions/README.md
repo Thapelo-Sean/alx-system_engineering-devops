@@ -11,4 +11,5 @@
 10. Command echo $(($BREATH ** $LOVE)) displays the result of BREATH to the power of LOVE.
 11. Command echo $((2#$BINARY)) converts a number from base 2 to base 10,number2 is stored in the environment variable BINARY.
 12. Command echo {a..z}{a..z} | tr ' ' '\n' | grep -v 'oo' prints all possible combinations of two letter, except oo.
-13. Command 
+13. Command printf "%.2f\n" $NUM prints a number with two decimals places, the number will be stored in the environment variable NUM.
+14. Command  
