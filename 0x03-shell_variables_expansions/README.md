@@ -3,4 +3,5 @@
 2. Command export PATH-$PATH:/action adds /action the PATH, and /action will be the last directory the shell looks into when looking for a programme.
 3. Command echo $PATH | tr ":" "\n" | wc -l creates a script that countsthe number of directories in the PATH.
 4. Command printenv lists environment variables.
-5. 
+5. Command set lists local variables.
+6. Command 
